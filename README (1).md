@@ -35,9 +35,8 @@ Upload `model.joblib` to the same repo.
    - **Branch:** `main`
    - **Main file path:** `app.py`
 5. Click **Deploy!** 🎉
-
-Your app will be live at:
-`https://sonikadeshwal-social-media-fake-account-detection-app-xxxx.streamlit.app`
+ app will be live at:
+'https://social-media-fake-account-detection-cpg6daakcrpcbcezzhwxbd.streamlit.app/'
 
 ---
 
